@@ -1,1 +1,1 @@
-# BI_Titanic_Classification
+# DS_Titanic_Classification

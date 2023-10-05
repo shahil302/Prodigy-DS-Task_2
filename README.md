@@ -1,1 +1,1 @@
-# Prodigy-DS-Task_2
+# BI_Titanic_Classification
